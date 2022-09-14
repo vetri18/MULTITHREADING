@@ -1,10 +1,2 @@
-﻿namespace AdressBook 
-{
-    class Program
-    {
-        public static void Main(string[] args)
-        {
-            Console.WriteLine("Welcome to pay roll problem using multithreading ");
-        }
-    }
-}
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Wellcome to the Multi Threading Program");
